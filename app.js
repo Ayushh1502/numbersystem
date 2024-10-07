@@ -12,7 +12,7 @@ for(i=0;i<numbers.length;i++){
     }
     if(count<=2){
         console.log(numbers[i],"is a prime number")
-        primearray.push([ numbers[i]]);
+        primearray.push(numbers[i]);
     }
 }
 

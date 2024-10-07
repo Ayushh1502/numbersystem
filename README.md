@@ -73,4 +73,4 @@ Second file we have made app.js in which we have stored all the prime numbers an
 The expected out of the index.js is correct 
 
 but in the app.js it is showing wrong output .
-the expected outpur is minimum prime numer is 2 and the maximum prime number is 31 . and the sum of the all prime numers are also wrong it is showing in the string form . 
+the expected outpur is minimum prime numer is 2 and the maximum prime number is 31 . and the sum of the all prime numers are also wrong it is showing in the string form . also i am not able to know the reason why it is showing the wrong output.
